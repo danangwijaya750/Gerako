@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "980363960532",
+    "firebase_url": "https://gerako-3a0d9.firebaseio.com",
+    "project_id": "gerako-3a0d9",
+    "storage_bucket": "gerako-3a0d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980363960532:android:0fcb77b3552a9051",
+        "android_client_info": {
+          "package_name": "com.dngwjy.grako"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980363960532-29c5eml4ts6p56gtfjmbo2pmukr2l15i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVmgem5cMtNlexOLdek3_iGn9otLE8MiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980363960532-29c5eml4ts6p56gtfjmbo2pmukr2l15i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

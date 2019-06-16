@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gerako Penyedia</string>
+    <string-array name="type">
+        <item>Menunggu Pembayaran</item>
+        <item>Terbayar</item>
+        <item>Terverifikasi</item>
+        <item>Selesai</item>
+    </string-array>
+</resources>

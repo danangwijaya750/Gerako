@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                 android:layout_height="match_parent"
+                                                 android:layout_width="match_parent"
+                                                 xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                 android:layout_gravity="center">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+    </LinearLayout><LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="75dp"
+        android:orientation="vertical">
+
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/akun_big" />
+</LinearLayout>
+
+    <LinearLayout
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:layout_marginTop="150dp">
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:background="@drawable/textshape"
+                android:padding="16dp"
+                android:singleLine="true"
+                android:text="John Doe"
+                android:textSize="14sp"
+                android:drawableRight="@drawable/pencil"
+                android:textColor="#A7A7A7"/>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/textshape"
+                android:padding="16dp"
+                android:singleLine="true"
+                android:text="Johndoe@gerako.id"
+                android:textSize="14sp"
+                android:drawableRight="@drawable/pencil"
+                android:textColor="#A7A7A7"/>
+
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:background="@drawable/buttonshape_cancel"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="Ubah password"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:textAllCaps="false"/>
+
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:background="@drawable/buttonshape"
+                android:layout_marginTop="40dp"
+                android:gravity="center"
+                android:text="Simpan"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:textAllCaps="false"/>
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

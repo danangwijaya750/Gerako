@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gerako</string>
+    <string-array name="spinner">
+        <item>Cari lokasi terdekat</item>
+        <item>Yogyakarta</item>
+        <item>Sleman</item>
+        <item>Gunungkidul</item>
+        <item>Kulon Proogo</item>
+    </string-array>
+    <string-array name="type">
+        <item>Menunggu Pembayaran</item>
+        <item>Terbayar</item>
+        <item>Terverifikasi</item>
+        <item>Selesai</item>
+    </string-array>
+</resources>
